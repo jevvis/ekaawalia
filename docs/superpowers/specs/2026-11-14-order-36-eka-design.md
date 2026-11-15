@@ -28,6 +28,6 @@ Situs portofolio dwibahasa (ID/EN) dari Template 1 (Next.js 14), memakai kerangk
 11. **Foto tanpa tanggal (WhatsApp).** Foto RSUD Banyumas, Margono (kecuali satu), dan sebagian ISCONEX tidak punya data EXIF sehingga periodenya tidak bisa dicocokkan dengan CV. Foto PPSLU (3-14 Mar 2026), Puskesmas (26 Jan-20 Feb 2026), dan Goeteng (11-27 Apr 2026) cocok dengan CV.
 12. **Berkas ganda dan tidak dipakai.** `FIC_0312.jpeg` dan `FIC_0312(1).jpeg` identik. Foto sesi Profesi lain, foto praktik yang mirip, dan sebagian foto Margono tidak dipakai karena mirip atau memuat pasien.
 13. **Nama dan gelar.** CV: "Ns. EKA AWALIA, S.Kep". Sertifikat: "EKA AWALIA" tanpa gelar (STR, UKOM, BTCLS), selempang wisuda: "Ns. Eka Awalia, S.Kep". Situs memakai nama CV. Tanggal lahir 12 Maret 2000 hanya ada di sertifikat Margono dan tidak dipakai.
-14. **Email dengan huruf berulang.** `ekaaawaliaaa12@gmail.com`. Ditulis persis seperti CV; mohon konfirmasi.
+14. **Email.** CV menulis `ekaaawaliaaa12@gmail.com`; klien mengoreksi menjadi `ekaawaliaaa12@gmail.com` (14 Nov 2026). Situs memakai versi koreksi klien.
 15. **STR dan UKOM bertanggal September 2026.** Sertifikat Kompetensi 8 September 2026, STR (lulus UMP 9 September 2026) terbit 30 September 2026. Konsisten dengan CV (Profesi 2025-2026). Tanggal EXIF foto wisuda Profesi: 19 September 2026.
 16. **Judul artikel jurnal.** Terjemahan Inggris judul artikel dibuat pembuat situs (judul asli Indonesia dicantumkan di dalamnya).
